@@ -1,0 +1,7 @@
+h1,h2
+{
+	color : blue ;/*commentaire*/
+	font-size : 2em; /*fontsize permet de changer la taille du texte.on peut aussi le modififier
+						en utilisant (small,medium,large,xlarge),ou encor exprimer la taille en em.bsp: font-size : 1.5em*/
+	font-family : Impact,"Arial Black",Arial,"Courier New",Georgia,"New Roman","Trebuchet Ms","comic Sans MS",Verdana,sans-serif;/*font-family permet de changer la police du texte;
+}
